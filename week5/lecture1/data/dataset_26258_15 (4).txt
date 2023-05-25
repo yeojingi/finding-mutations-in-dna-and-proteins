@@ -1,0 +1,11 @@
+0.277
+--------
+A	B	C	D	E
+--------
+BAC--ADE-
+DAEABACEB
+B-E-B-CEB
+BADABA-EB
+-AEABAC-B
+BAEAD-C-B
+BAEAEA--B

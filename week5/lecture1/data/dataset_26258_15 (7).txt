@@ -1,0 +1,12 @@
+0.276
+--------
+A	B	C	D	E
+--------
+-EDA--BB-
+-CDE-CD-D
+-EDE-CBB-
+-BDABEB-D
+CEDAB--DD
+CEDCE-CDD
+CE-ABC-D-
+CEDA-AB-D

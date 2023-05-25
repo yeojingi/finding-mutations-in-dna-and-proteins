@@ -1,0 +1,11 @@
+0.215
+--------
+A	B	C	D	E
+--------
+D-BACCB--
+DC-AC--AE
+-BBAB-BAE
+-BBAACBEE
+DB-A-CBEE
+DBBA-C-AC
+DBBAC--AE

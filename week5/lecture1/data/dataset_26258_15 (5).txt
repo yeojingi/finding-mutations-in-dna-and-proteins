@@ -1,0 +1,9 @@
+0.346
+--------
+A	B	C	D	E
+--------
+DDA--EBEE
+DD-BAEBEE
+DDEB-EBEE
+DDEEBEB-E
+DD----BAE

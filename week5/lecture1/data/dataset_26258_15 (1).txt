@@ -1,0 +1,9 @@
+0.208
+--------
+A	B	C	D	E
+--------
+C-BCABCDB
+-B-CAB-DB
+--BC-B-DB
+D-ACED-DB
+DBDCABBD-

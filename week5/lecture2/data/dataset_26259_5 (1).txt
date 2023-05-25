@@ -1,0 +1,13 @@
+0.201 0.01
+--------
+A B C D E
+--------
+ABA
+EAB
+CEB
+-BB
+EBE
+EBB
+-B-
+EBA
+CBB
